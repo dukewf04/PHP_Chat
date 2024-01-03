@@ -1,7 +1,7 @@
 ## About
 
 Simple web chat, codded on Laravel 5.
-- HTML, CSS, JavaScript, HTML
+- HTML, CSS, JavaScript, PHP
 - JQuerry
 - DB: PostgreSQL
 
